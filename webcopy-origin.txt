@@ -1,0 +1,572 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/css/all.min.css?ver=6.4.3
+File Name: C:\Downloaded Web Sites\urban.com.kz\ajax\libs\font-awesome\5.12.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\urban.com.kz\ajax\libs\font-awesome\5.12.0\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\urban.com.kz\ajax\libs\font-awesome\5.12.0\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\urban.com.kz\ajax\libs\font-awesome\5.12.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\ajax\libs\font-awesome\5.12.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\urban.com.kz\ajax\libs\font-awesome\5.12.0\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\urban.com.kz\ajax\libs\font-awesome\5.12.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\urban.com.kz\ajax\libs\font-awesome\5.12.0\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\urban.com.kz\ajax\libs\font-awesome\5.12.0\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\urban.com.kz\ajax\libs\font-awesome\5.12.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\ajax\libs\font-awesome\5.12.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\urban.com.kz\ajax\libs\font-awesome\5.12.0\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\urban.com.kz\ajax\libs\font-awesome\5.12.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\urban.com.kz\ajax\libs\font-awesome\5.12.0\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\urban.com.kz\ajax\libs\font-awesome\5.12.0\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\urban.com.kz\ajax\libs\font-awesome\5.12.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\ajax\libs\font-awesome\5.12.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\urban.com.kz\ajax\libs\font-awesome\5.12.0\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\urban.com.kz\ajax\libs\font-awesome\5.12.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&subset=cyrillic&ver=6.4.3
+File Name: C:\Downloaded Web Sites\urban.com.kz\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Source+Sans+Pro:500%2C400|Montserrat:800%2C700&display=fallback&ver=4.1.3
+File Name: C:\Downloaded Web Sites\urban.com.kz\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzQdKg.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzQdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc-CsE.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc-CsE.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc-CsE.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic-CsE.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxMIzc.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\roboto\v30\KFOkCnqEu92Fr1MmgVxMIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xMIzc.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\roboto\v30\KFOkCnqEu92Fr1Mu51xMIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc9.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fABc9.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc9.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfABc9.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxP.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\roboto\v30\KFOmCnqEu92Fr1Mu5mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSma2Rm.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Oma2Rm.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Oma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOma2Rm.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISma2Rm.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISma2Rm.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWma2Rm.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOma2Rm.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOma2Rm.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSma2Rm.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+Content Type: font/ttf
+
+Uri: https://urban.com.kz/
+File Name: C:\Downloaded Web Sites\urban.com.kz\index.htm
+Content Type: text/html
+
+Uri: https://urban.com.kz/?feed=comments-rss2
+File Name: C:\Downloaded Web Sites\urban.com.kz\index-2.htm
+Content Type: application/rss+xml
+
+Uri: https://urban.com.kz/?feed=rss2
+File Name: C:\Downloaded Web Sites\urban.com.kz\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://urban.com.kz/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Furban.com.kz%2F
+File Name: C:\Downloaded Web Sites\urban.com.kz\index-2.php
+Content Type: application/json
+
+Uri: https://urban.com.kz/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Furban.com.kz%2F&format=xml
+File Name: C:\Downloaded Web Sites\urban.com.kz\index-3.php
+Content Type: text/xml
+
+Uri: https://urban.com.kz/index.php?rest_route=/
+File Name: C:\Downloaded Web Sites\urban.com.kz\index.php
+Content Type: application/json
+
+Uri: https://urban.com.kz/index.php?rest_route=/wp/v2/pages/6
+File Name: C:\Downloaded Web Sites\urban.com.kz\index-1.php
+Content Type: application/json
+
+Uri: https://urban.com.kz/wp-content/plugins/chaty-pro/css/chaty-front.min.css?ver=3.0.51682601158
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\chaty-pro\css\chaty-front.min.css
+Content Type: text/css
+
+Uri: https://urban.com.kz/wp-content/plugins/chaty-pro/images/header-bottom.png
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\chaty-pro\images\header-bottom.png
+Content Type: image/png
+
+Uri: https://urban.com.kz/wp-content/plugins/chaty-pro/images/header-top.png
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\chaty-pro\images\header-top.png
+Content Type: image/png
+
+Uri: https://urban.com.kz/wp-content/plugins/chaty-pro/images/whatsapp.png
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\chaty-pro\images\whatsapp.png
+Content Type: image/png
+
+Uri: https://urban.com.kz/wp-content/plugins/chaty-pro/js/cht-front-script.min.js?ver=3.0.51682601158
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\chaty-pro\js\cht-front-script.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.12.1
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.12.1
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.12.1
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.12.1
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.20.1
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.20.1
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.20.1
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.20.1
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.20.1
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.29.0
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.29.0
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.29.0
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.29.0
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.29.0
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.29.0
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.20.1
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.20.1
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.20.1
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://urban.com.kz/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-content/plugins/mousewheel-smooth-scroll/js/SmoothScroll.min.js?ver=1.4.10
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\mousewheel-smooth-scroll\js\SmoothScroll.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-content/plugins/scroll-top/assets/css/scroll-top.css?ver=1.5
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\scroll-top\assets\css\scroll-top.css
+Content Type: text/css
+
+Uri: https://urban.com.kz/wp-content/plugins/scroll-top/assets/js/jquery.scrollUp.min.js?ver=1.5
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\plugins\scroll-top\assets\js\jquery.scrollUp.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.1.3
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\themes\astra\assets\css\minified\frontend.min.css
+Content Type: text/css
+
+Uri: https://urban.com.kz/wp-content/themes/astra/assets/fonts/astra.svg
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\themes\astra\assets\fonts\astra.svg
+Content Type: image/svg+xml
+
+Uri: https://urban.com.kz/wp-content/themes/astra/assets/fonts/astra.ttf
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\themes\astra\assets\fonts\astra.ttf
+Content Type: application/octet-stream
+
+Uri: https://urban.com.kz/wp-content/themes/astra/assets/fonts/astra.woff
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\themes\astra\assets\fonts\astra.woff
+Content Type: font/woff
+
+Uri: https://urban.com.kz/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.1.3
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-content/uploads/2019/02/services-06-free-img-234x300.jpg
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2019\02\services-06-free-img-234x300.jpg
+Content Type: image/jpeg
+
+Uri: https://urban.com.kz/wp-content/uploads/2019/02/services-06-free-img.jpg
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2019\02\services-06-free-img.jpg
+Content Type: image/jpeg
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/1number_1_3080-150x150.png
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\1number_1_3080-150x150.png
+Content Type: image/png
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/1number_1_3080-300x300.png
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\1number_1_3080-300x300.png
+Content Type: image/png
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/1number_1_3080.png
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\1number_1_3080.png
+Content Type: image/png
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/2number_2_3830-150x150.png
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\2number_2_3830-150x150.png
+Content Type: image/png
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/2number_2_3830-300x300.png
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\2number_2_3830-300x300.png
+Content Type: image/png
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/2number_2_3830.png
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\2number_2_3830.png
+Content Type: image/png
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/3number_3_3078-150x150.png
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\3number_3_3078-150x150.png
+Content Type: image/png
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/3number_3_3078-300x300.png
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\3number_3_3078-300x300.png
+Content Type: image/png
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/3number_3_3078.png
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\3number_3_3078.png
+Content Type: image/png
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/4number_4_3076-150x150.png
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\4number_4_3076-150x150.png
+Content Type: image/png
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/4number_4_3076-300x300.png
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\4number_4_3076-300x300.png
+Content Type: image/png
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/4number_4_3076.png
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\4number_4_3076.png
+Content Type: image/png
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/5000x3333_0xac120003_12462882291632391804-scaled.jpeg
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\5000x3333_0xac120003_12462882291632391804-scaled.jpeg
+Content Type: image/jpeg
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/cropped-PEREGONSHIK.KZ-removebg-preview-300x105.png
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\cropped-PEREGONSHIK.KZ-removebg-preview-300x105.png
+Content Type: image/png
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/cropped-PEREGONSHIK.KZ-removebg-preview.png
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\cropped-PEREGONSHIK.KZ-removebg-preview.png
+Content Type: image/png
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/DkHQgA6XsAETvQZ.jpg
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\DkHQgA6XsAETvQZ.jpg
+Content Type: image/jpeg
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/masina_freepik-300x169.jpg
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\masina_freepik-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/masina_freepik-768x432.jpg
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\masina_freepik-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/masina_freepik.jpg
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\masina_freepik.jpg
+Content Type: image/jpeg
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/mustang-sportkar-fontekstura.jpg
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\mustang-sportkar-fontekstura.jpg
+Content Type: image/jpeg
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/PEREGONSHIK.KZ-removebg-preview-150x150.png
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\PEREGONSHIK.KZ-removebg-preview-150x150.png
+Content Type: image/png
+
+Uri: https://urban.com.kz/wp-content/uploads/2023/04/PEREGONSHIK.KZ-removebg-preview-300x300.png
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\2023\04\PEREGONSHIK.KZ-removebg-preview-300x300.png
+Content Type: image/png
+
+Uri: https://urban.com.kz/wp-content/uploads/elementor/css/post-513.css?ver=1710845519
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\elementor\css\post-513.css
+Content Type: text/css
+
+Uri: https://urban.com.kz/wp-content/uploads/elementor/css/post-6.css?ver=1710845520
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\elementor\css\post-6.css
+Content Type: text/css
+
+Uri: https://urban.com.kz/wp-content/uploads/wpmss/wpmss.min.js?ver=1683058227
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\wpmss\wpmss.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-content/uploads/wpmss/wpmssab.min.js?ver=1683058227
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-content\uploads\wpmss\wpmssab.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://urban.com.kz/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\urban.com.kz\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
